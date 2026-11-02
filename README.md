@@ -17,7 +17,7 @@ Self-hosting nerd. I build game servers, containers and small tools, and run mos
 
 | Project | What it is |
 | --- | --- |
-| [**respawn**](https://github.com/aydndev/respawn) | Self-hosted Steam game server images (s&box and more), built on SteamCMD and published to [Docker Hub](https://hub.docker.com/u/aydndev) |
+| [**respawn**](https://github.com/drshockz/respawn) | Self-hosted Steam game server images (s&box and more), built on SteamCMD and published to [Docker Hub](https://hub.docker.com/u/aydndev) |
 
 ### Homelab
 
