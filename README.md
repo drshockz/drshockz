@@ -32,5 +32,5 @@ Self-hosting nerd. I build game servers, containers and small tools, and run mos
 
 ### Contact
 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Email](https://img.shields.io/badge/-Email-555555?style=flat)](mailto:you@example.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/740489830936346624)
+[![Email](https://img.shields.io/badge/-Email-555555?style=flat)](mailto:me@aydinarda.me)
